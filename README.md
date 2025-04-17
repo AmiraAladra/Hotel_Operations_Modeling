@@ -1,4 +1,4 @@
-🏨 Hotel Operations Data Modeling & Analytics | Power BI Project
+# 🏨 Hotel Operations Data Modeling & Analytics | Power BI Project
 
 This project demonstrates a full-scale **Power BI data modeling and reporting solution** for a hotel chain's operations. Leveraging rich, multi-dimensional datasets, it models and visualizes key aspects such as guest bookings, staff performance, billing, events management, and service utilization.
 
